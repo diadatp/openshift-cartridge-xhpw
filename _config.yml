@@ -1,0 +1,9 @@
+# Site settings
+title: xhpw - an Openshift cartridge
+tag_text: xhpw
+description: Solo is a Jekyll theme that supports single-page websites only, but supports them well. Yes, it’s responsive.
+
+# Build settings
+markdown: kramdown
+
+exclude: ["README.md"]
