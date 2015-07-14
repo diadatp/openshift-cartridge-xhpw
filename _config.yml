@@ -1,7 +1,7 @@
 # Site settings
-title: xhpw - an Openshift cartridge
+title: xhpw - an Openshift cartridge for supercharged Wordpress sites
 tag_text: xhpw
-description: Solo is a Jekyll theme that supports single-page websites only, but supports them well. Yes, it’s responsive.
+description: xhpw is a ready to deploy Openshift cartridge.
 
 # Build settings
 markdown: kramdown
